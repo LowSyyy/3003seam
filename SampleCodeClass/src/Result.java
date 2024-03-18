@@ -1,14 +1,25 @@
 public class Result {
     String name;
-    
+
     int RE;
     int SDA;
     int SQAT;
     int SEAM;
     int FM;
     int HCI;
+
+
+=======
+void mkDASHABI()
+
+
     double getAverageMark()
     {
+	RE = 1;
+	SDA = 1;
+	SQAT = 1;
+	SEAM = 1;
+	FM = 1
         return (RE+SDA+SQAT+SEAM+FM)/4;
     }
 
