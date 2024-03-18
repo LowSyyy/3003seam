@@ -49,10 +49,6 @@ void mkDASHABI()
     void toiletFunction(){
         System.out.println("Poop");
     }
-
-    void importantFunction(){
-        System.out.println("Delete system32");
-    }
 =======
     void Jiahao()
 
