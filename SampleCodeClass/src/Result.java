@@ -9,7 +9,7 @@ public class Result {
     int HCI;
 
 
-=======
+
 void mkDASHABI()
 
 
@@ -51,13 +51,38 @@ void mkDASHABI()
     }
 
 
+    void kxiangTest();
+
+    void myTest(){
+        System.out.println("Testing");
+    }
+
+
+    int countAll() { return 0; }
+
+ void iloveu(){
+    
+ }
+
+
+    void myTest(){
+        System.out.println("Testing");
+    }
+
+    void scg2(){
+        System.out.println("Testing");
+    }
+
+    int countAll2() { return 0; }
+
+
     void toiletFunction(){
         System.out.println("Poop");
     }
-=======
+
     void Jiahao()
 
-=======
+
 
 
     int countAll() { return 0; }
@@ -68,5 +93,10 @@ void mkDASHABI()
     void makingCake(){
         System.out.println("^^^^^^6^^^^^^")
     }
+
+    void LawBing(){
+        System.out.println("See u guys in Starlight Fantasy this Saturday WRYYYYY!!!");
+    }
+
 
 }
