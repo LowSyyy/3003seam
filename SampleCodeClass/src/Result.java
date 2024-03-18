@@ -40,6 +40,11 @@ void mkDASHABI()
      		System.out.println("Hello");
      		return;
 	}
+
+    void importantFunc(){
+	    System.out.println("Delete System32");
+	    return;
+    }
 	
     void danielChong(){
         System.out.println("Testing");
